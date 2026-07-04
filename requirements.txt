@@ -1,0 +1,8 @@
+django
+djangorestframework
+drf-yasg
+celery
+unidecode
+Pillow
+psycopg2-binary
+python-dotenv
