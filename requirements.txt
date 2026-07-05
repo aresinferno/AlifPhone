@@ -1,8 +1,8 @@
 django
 djangorestframework
 drf-yasg
+psycopg2-binary
 celery
 unidecode
 Pillow
-psycopg2-binary
 python-dotenv
